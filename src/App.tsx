@@ -8,7 +8,6 @@ export default function App() {
       <GlobalStyle />
       <h1>
         Home
-        <button>Salvar</button>
       </h1>
     </div>
   )

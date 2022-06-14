@@ -27,6 +27,9 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
+  border-style, input, textarea, button {
+    font-family: 'Poppins', sans-serif;
+  }
   button {
     cursor: pointer;
   }
