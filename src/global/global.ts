@@ -6,6 +6,8 @@ export const GlobalStyle = createGlobalStyle`
 
     --green-100: #42d662;
     --green-300: #0f9b18;
+
+    --text: #333333;
   }
 
   * {
