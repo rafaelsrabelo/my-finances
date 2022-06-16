@@ -28,11 +28,15 @@ export const Container = styled.div`
       }
 
       &.deposit {
-        color: #53ee5e;
+        color: #2fbc38;
       }
       &.withdraw {
         color: #ee5353;
       }
     }
+  }
+
+  .title {
+    font-weight: 700;
   }
 `
